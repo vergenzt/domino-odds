@@ -1,0 +1,7 @@
+{
+  "main": "index.js",
+  "dependencies": {
+    "lodash.product": "18.9.19",
+    "lodash": "4.17.11"
+  }
+}
